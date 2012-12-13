@@ -18,3 +18,7 @@ The block encryption is handled by external classes, making this class extensibl
 
 This is compatible with php's mcrypt
 Demo: http://crazycode.doerings.org/js-mcrypt/
+
+Current
+=======
+Twofish is broken
